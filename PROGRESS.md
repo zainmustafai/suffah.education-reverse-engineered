@@ -30,7 +30,7 @@ Status key: [ ] not started · [~] in progress · [x] done
 - [x] Users (/users) - plus flows/register-user.md; created 2 teachers
 - [x] Families (/tools/families) - plus flows/admit-siblings.md; Siddiqui family created (see the incident note in the flow)
 - [x] Special Care (/users?role=Student&specialCare=1) - documented inside docs/05-users.md
-- [ ] Finance (/tools/finance)
+- [x] Finance (/tools/finance) - Stripe-gated shell pre-connection; partial payments impossible (see docs/09-finance.md)
 - [ ] Learning Pathway (/tools/learning-pathway)
 - [ ] Course Tool (/tools/course) - in development
 - [ ] Interactive Qur'an (/tools/interactive-quran) - in development
