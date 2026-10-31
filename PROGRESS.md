@@ -18,8 +18,8 @@ Status key: [ ] not started · [~] in progress · [x] done
 
 ## Modules - deep walkthrough (docs + flow + FHD desktop screenshots each)
 - [ ] Dashboard (/dashboard)
-- [ ] Announcements (/announcements)
-- [ ] Chat (/chat)
+- [x] Announcements (/announcements) - composer documented; in-app-only test announcement sits PENDING APPROVAL
+- [x] Chat (/chat) - read-only documentation; nothing sent
 - [x] Classroom / Attendance (/attendance) - Yusuf LATE, Maryam ABSENT on 2026-10-31; no reason/note field exists
 - [ ] Subscription (/subscription)
 - [x] School Settings (/school-settings)
