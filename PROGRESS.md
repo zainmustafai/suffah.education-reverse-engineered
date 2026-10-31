@@ -10,6 +10,12 @@ Status key: [ ] not started · [~] in progress · [x] done
 - None for pushes: pushes go through the Muse GitHub App connector (snapshot pushes, small
   commits). The fine-grained PAT still cannot write to this repo (403) and is not used.
 
+## Screenshots
+- First batch exported 2026-10-31 (12 files, 7 web-upload commits): dashboard, school-settings
+  (school-info.png redacted), programs, hours, tools hub, announcements, subscription.
+- Captures are print-layout (top of screen, no sidebar) - the only file-export route from the
+  browser. Users-module captures still pending.
+
 ## Modules - deep walkthrough (docs + flow + FHD desktop screenshots each)
 - [ ] Dashboard (/dashboard)
 - [ ] Announcements (/announcements)

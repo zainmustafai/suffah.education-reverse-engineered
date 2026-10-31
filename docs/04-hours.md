@@ -2,7 +2,8 @@
 
 - Route(s): /tools/hours (tabs: My timesheet, Approvals, School schedule, Analytics)
 - Roles that can see this: Manager (as observed; the timesheet is personal - "Your own clock")
-- Screenshots: ../screenshots/hours/ (captured in browser session; export into repo pending)
+- Screenshots: ../screenshots/hours/ - my-timesheet.png, school-schedule.png, analytics.png.
+  Print-layout captures (top of screen, no sidebar).
 
 ## What it does
 Teacher time tracking: personal clock-in/out timesheet, an approvals queue for time entries,

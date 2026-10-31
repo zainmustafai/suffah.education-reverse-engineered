@@ -2,7 +2,9 @@
 
 - Route(s): /school-settings (tabs: School Info, Roles, Holidays)
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/school-settings/ (captured in browser session; export into repo pending)
+- Screenshots: ../screenshots/school-settings/ - school-info.png (owner email, phone and street
+  address blacked out - this repo is public), roles.png, holidays.png. Print-layout captures:
+  they show the top of each screen and omit the sidebar.
 
 ## What it does
 The foundation's core configuration: school identity and contact details, custom roles and

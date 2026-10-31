@@ -2,7 +2,9 @@
 
 - Route(s): /tools/programs (list, detail, and a 7-step create wizard on the same route)
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/programs/ (captured in browser session; export into repo pending)
+- Screenshots: ../screenshots/programs/ - programs-list.png, full-time-hifz-setup.png.
+  Print-layout captures (top of screen, no sidebar). Wizard-step captures exist only in the
+  browser session.
 
 ## What it does
 A program is the overall package families enrol into: curriculum (fields of study with levels),
