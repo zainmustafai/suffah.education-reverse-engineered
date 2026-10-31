@@ -24,11 +24,11 @@ Status key: [ ] not started · [~] in progress · [x] done
 - [ ] Subscription (/subscription)
 - [x] School Settings (/school-settings)
 - [x] Programs (/tools/programs) - list, locked detail, and full create wizard (flows/create-program.md); created: Evening Nazra & Islamic Studies
-- [ ] Admissions (/tools/registration)
+- [x] Admissions (/tools/registration)
 - [ ] School Page (/tools/school-page)
 - [x] Hours (/tools/hours)
 - [x] Users (/users) - plus flows/register-user.md; created 2 teachers
-- [ ] Families (/tools/families)
+- [x] Families (/tools/families) - plus flows/admit-siblings.md; Siddiqui family created (see the incident note in the flow)
 - [x] Special Care (/users?role=Student&specialCare=1) - documented inside docs/05-users.md
 - [ ] Finance (/tools/finance)
 - [ ] Learning Pathway (/tools/learning-pathway)
