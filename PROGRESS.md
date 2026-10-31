@@ -1,5 +1,7 @@
 # Progress
 
+Walkthrough status: COMPLETE - 2026-10-31 (all 22 modules documented, 4 flows run, 30 screenshots in repo).
+
 Status key: [ ] not started · [~] in progress · [x] done
 
 ## Setup
@@ -11,10 +13,13 @@ Status key: [ ] not started · [~] in progress · [x] done
   commits). The fine-grained PAT still cannot write to this repo (403) and is not used.
 
 ## Screenshots
-- First batch exported 2026-10-31 (12 files, 7 web-upload commits): dashboard, school-settings
-  (school-info.png redacted), programs, hours, tools hub, announcements, subscription.
-- Captures are print-layout (top of screen, no sidebar) - the only file-export route from the
-  browser. Users-module captures still pending.
+- Batch 1 (12 files): dashboard, school-settings (school-info.png redacted), programs, hours,
+  tools hub, announcements, subscription.
+- Batch 2 (18 files, 2026-10-31): users (list + profile redacted), families, admissions,
+  finance, attendance, chat, school-page, learning-pathway, analytics, reports, activity-log,
+  backups, in-development. All 30 screenshots are in the repo.
+- Captures are print-layout renders of the desktop pages (top of page, no sidebar) - the only
+  file-export route from the browser; exact 1920x1080 viewport capture was not achievable.
 
 ## Modules - deep walkthrough (docs + flow + FHD desktop screenshots each)
 - [x] Dashboard (/dashboard)
@@ -41,4 +46,10 @@ Status key: [ ] not started · [~] in progress · [x] done
 - [x] Profile (/profile) - documented inside docs/05-users.md
 
 ## Flows
-- [ ] To be filled as flows are documented (see docs/01-use-cases.md for the scenario plan).
+- [x] flows/create-program.md - Evening Nazra & Islamic Studies created end to end
+- [x] flows/register-user.md - two teachers registered via the collection flow
+- [x] flows/admit-siblings.md - Siddiqui family: 1 guardian, 2 siblings, sibling discount traced
+- [x] flows/record-fees.md - $75 charge added; partial payment proven impossible
+- Scenario-plan items that could not run because the product lacks the feature: exams/report
+  cards (no such module), timetable clash + leave substitution (no timetable module; class
+  scheduling lives inside Programs), parent-message replies (Chat documented read-only).
