@@ -20,7 +20,7 @@ Status key: [ ] not started · [~] in progress · [x] done
 - [ ] Dashboard (/dashboard)
 - [ ] Announcements (/announcements)
 - [ ] Chat (/chat)
-- [ ] Classroom / Attendance (/attendance)
+- [x] Classroom / Attendance (/attendance) - Yusuf LATE, Maryam ABSENT on 2026-10-31; no reason/note field exists
 - [ ] Subscription (/subscription)
 - [x] School Settings (/school-settings)
 - [x] Programs (/tools/programs) - list, locked detail, and full create wizard (flows/create-program.md); created: Evening Nazra & Islamic Studies
