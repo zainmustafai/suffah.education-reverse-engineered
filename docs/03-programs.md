@@ -59,8 +59,10 @@ families enrol into. The tagline and description below appear on the public prog
 | Tagline | Text input | No - labeled "(optional)" | Placeholder "A Lifelong Connection to the Book of Allah" |
 | About this program | Textarea | No - labeled "(optional)" | Markdown supported (helper text) |
 
-Actions: Cancel, "Next >", X close. Steps 2-7 not yet documented - advancing needs a program
-name, so they are covered by the create-program slice (docs/flows) instead.
+Actions: Cancel, "Next >", X close. Steps 2-7 are documented in flows/create-program.md
+(the full wizard run that created "Evening Nazra & Islamic Studies" on 2026-10-31).
+Key discovery: Step 2 "Program type" is really the payment model - "Default" (one price,
+single shift) vs "Pay per session" - not the kind of program.
 
 ## States
 - Locked program: all editing controls disabled with an explanatory banner; Unlock is the gate.

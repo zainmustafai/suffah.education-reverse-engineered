@@ -17,7 +17,7 @@ Status key: [ ] not started · [~] in progress · [x] done
 - [ ] Classroom / Attendance (/attendance)
 - [ ] Subscription (/subscription)
 - [x] School Settings (/school-settings)
-- [~] Programs (/tools/programs) - list, locked detail and wizard step 1 documented; wizard steps 2-7 come with the create-program flow
+- [x] Programs (/tools/programs) - list, locked detail, and full create wizard (flows/create-program.md); created: Evening Nazra & Islamic Studies
 - [ ] Admissions (/tools/registration)
 - [ ] School Page (/tools/school-page)
 - [x] Hours (/tools/hours)
