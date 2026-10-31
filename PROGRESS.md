@@ -21,9 +21,9 @@ Status key: [ ] not started · [~] in progress · [x] done
 - [ ] Admissions (/tools/registration)
 - [ ] School Page (/tools/school-page)
 - [x] Hours (/tools/hours)
-- [ ] Users (/users)
+- [x] Users (/users) - plus flows/register-user.md; created 2 teachers
 - [ ] Families (/tools/families)
-- [ ] Special Care (/users?role=Student&specialCare=1)
+- [x] Special Care (/users?role=Student&specialCare=1) - documented inside docs/05-users.md
 - [ ] Finance (/tools/finance)
 - [ ] Learning Pathway (/tools/learning-pathway)
 - [ ] Course Tool (/tools/course) - in development
@@ -32,7 +32,7 @@ Status key: [ ] not started · [~] in progress · [x] done
 - [ ] Reports (/tools/reports)
 - [ ] Activity Log (/tools/activity)
 - [ ] Backups (/tools/backups)
-- [ ] Profile (/profile)
+- [x] Profile (/profile) - documented inside docs/05-users.md
 
 ## Flows
 - [ ] To be filled as flows are documented (see docs/01-use-cases.md for the scenario plan).
