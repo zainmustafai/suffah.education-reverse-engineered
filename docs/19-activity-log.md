@@ -2,7 +2,7 @@
 
 - Route(s): /tools/activity
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/activity-log/ (pending - batch 2)
+- Screenshots: ../screenshots/activity-log/activity-log.png
 
 ## Screen
 - "Every action taken by managers and admins, kept for reference."

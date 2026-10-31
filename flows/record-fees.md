@@ -2,7 +2,7 @@
 
 - Entry: Families -> family drawer -> Charge tab / Past payments tab
 - Ran on: 2026-10-31 against the Siddiqui family - see CREATED_RECORDS.md
-- Screenshots: ../screenshots/finance/ (pending - batch 2)
+- Screenshots: ../screenshots/finance/finance.png
 
 ## Goal
 Represent the admission scenario's money: a $75 registration charge on the family, then a

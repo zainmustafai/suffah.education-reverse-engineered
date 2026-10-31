@@ -2,7 +2,7 @@
 
 - Entry: /attendance -> a class -> Classroom page -> "Create Assignment"
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/attendance/ (pending - batch 2)
+- Screenshots: ../screenshots/attendance/class-picker.png
 - Outcome of the walkthrough attempt: NOT CREATED - the wizard's recipient step is broken
   (see "The blocker" below). Field documentation is complete for steps 1-4 of 6.
 

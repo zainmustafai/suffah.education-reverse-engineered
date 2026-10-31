@@ -4,7 +4,7 @@
 - Note: /classroom is a different, public family-portal page - the sidebar "Classroom" item
   links to /attendance.
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/attendance/ (pending - batch 2)
+- Screenshots: ../screenshots/attendance/class-picker.png
 
 ## Class picker - "Select Class / Choose the class for attendance"
 - Two modes (top-right toggle): "All classes" (default) and "Step-by-step".

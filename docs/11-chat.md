@@ -2,7 +2,7 @@
 
 - Route(s): /chat
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/chat/ (pending - batch 2)
+- Screenshots: ../screenshots/chat/chat.png
 - This walkthrough was strictly read-only in Chat: nothing was typed or sent anywhere.
 
 ## Layout

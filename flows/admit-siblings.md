@@ -3,7 +3,7 @@
 - Entry: Families (/tools/families) -> "New family"; class placement afterwards in
   Users -> Edit User -> Manage Enrollments
 - Ran on: 2026-10-31 - see CREATED_RECORDS.md for every record
-- Screenshots: ../screenshots/families/ (pending - batch 2)
+- Screenshots: ../screenshots/families/families-list.png
 
 ## Steps
 1. Guardian: First name "Ahmed Raza", Last name "Siddiqui" (the wizard splits first/last name),

@@ -2,7 +2,7 @@
 
 - Route(s): /tools/student-analytics
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/analytics/ (pending - batch 2)
+- Screenshots: ../screenshots/analytics/student-analytics.png
 
 ## What it does
 "Generate reports across a selected date range - attendance, grades, notes and more."

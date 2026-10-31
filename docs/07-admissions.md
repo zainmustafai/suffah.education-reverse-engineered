@@ -2,7 +2,7 @@
 
 - Route(s): /tools/registration (setup), /tools/registration/applications (review queue)
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/admissions/ (pending - batch 2)
+- Screenshots: ../screenshots/admissions/admissions.png, ../screenshots/admissions/applications.png
 
 ## What it does
 Not a registrations list and not an internal enrolment tool. Admissions is the school's PUBLIC
@@ -44,3 +44,11 @@ sign-up link and form." Internal student creation lives in Families and Users in
   Families wizard covers the same intake with full documentation - see flows/admit-siblings.md).
 - Seat counts on this page are a live read-model of Programs; nothing is editable here except
   Term, the domain slug, and the form fields.
+
+## Later state (batch-2 capture, same day)
+- Seats filled moved to 2 / 45 (43 open) once the two students were enrolled.
+- The Applications queue, empty during slice 4, later showed "1 admitted student to assign"
+  with level/section assignment controls for the Evening fields (Arabic, Islamic Studies,
+  Qur'an (Nazra)). The product does not say who it is; the likely candidate is Maryam, whose
+  enrolment was completed through Users rather than through this queue (inference - the queue
+  appears to track a different assignment state than Manage Enrollments).

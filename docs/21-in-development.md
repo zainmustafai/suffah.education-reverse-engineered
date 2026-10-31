@@ -1,7 +1,7 @@
 # In development: Course Tool, Interactive Qur'an, Records
 
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/in-development/ (pending - batch 2)
+- Screenshots: ../screenshots/in-development/course-tool.png, ../screenshots/in-development/interactive-quran.png
 
 ## Course Tool - /tools/course
 - Header badge "In development". "Build your own course as a pathway. Add videos, notes and

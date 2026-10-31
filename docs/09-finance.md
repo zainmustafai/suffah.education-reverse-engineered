@@ -3,7 +3,7 @@
 - Route(s): /tools/finance (Stripe connection only, in the observed state) plus the billing
   surfaces inside Families (family drawer: Billing / Charge / Past payments, Billing settings)
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/finance/ (pending - batch 2)
+- Screenshots: ../screenshots/finance/finance.png
 
 ## What Finance actually is
 Despite the Tools description ("Pricing, subscriptions & discounts via Stripe") and the page

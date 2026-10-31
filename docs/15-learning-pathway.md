@@ -2,7 +2,7 @@
 
 - Route(s): /tools/learning-pathway
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/learning-pathway/ (pending - batch 2)
+- Screenshots: ../screenshots/learning-pathway/learning-pathway.png
 
 ## What it does
 "Set the materials a class will study, in order." A class-level ordered reading list -

@@ -3,7 +3,7 @@
 - Route(s): /tools/school-page (admin); public: suffah.education/maddrassah (home + register
   entry) and suffah.education/maddrassah/page (news)
 - Roles that can see this: Manager (admin); anyone (public)
-- Screenshots: ../screenshots/school-page/ (pending - batch 2)
+- Screenshots: ../screenshots/school-page/school-page-admin.png, ../screenshots/school-page/public-home.png
 
 ## Admin - /tools/school-page
 "Your public page. What's happening at the school, kept current for families and visitors."

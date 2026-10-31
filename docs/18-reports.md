@@ -2,7 +2,7 @@
 
 - Route(s): /tools/reports
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/reports/ (pending - batch 2)
+- Screenshots: ../screenshots/reports/reports.png
 
 ## What it actually is
 NOT a report generator. "Things the system noticed that may need your attention. Each links

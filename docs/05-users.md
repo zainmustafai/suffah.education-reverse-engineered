@@ -2,7 +2,7 @@
 
 - Route(s): /users (list), /users/register (add user), /profile (own profile via avatar menu)
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/users/ (captured in browser session; export into repo pending)
+- Screenshots: ../screenshots/users/users-list.png, ../screenshots/users/register-form.png, ../screenshots/users/profile.png (owner email/phone blacked out in the list and profile captures)
 
 ## What it does
 Central directory of every account in the school: managers, teachers, parents, students.

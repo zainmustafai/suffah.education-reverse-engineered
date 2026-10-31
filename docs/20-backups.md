@@ -2,7 +2,7 @@
 
 - Route(s): /tools/backups
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/backups/ (pending - batch 2)
+- Screenshots: ../screenshots/backups/backups.png
 - Documented only; no backup was created in this walkthrough.
 
 ## Screen

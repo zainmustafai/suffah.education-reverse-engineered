@@ -2,7 +2,7 @@
 
 - Route(s): /tools/families (list, detail drawer, 6-step Create Family wizard)
 - Roles that can see this: Manager (as observed)
-- Screenshots: ../screenshots/families/ (pending - batch 2)
+- Screenshots: ../screenshots/families/families-list.png
 
 ## What it does
 Groups students under one billing family: "Group students into families to simplify billing,
